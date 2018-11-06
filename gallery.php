@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Gallery - Snapshot by TEMPLATED</title>
+		<title>ALWAYS</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,7 +19,7 @@
 					<ul>
 						<li><a href="index.php"><span class="icon fa-home"></span></a></li>
 						<li><a href="gallery.php" class="active"><span class="icon fa-camera-retro"></span></a></li>
-						<li><a href="generic.php"><span class="icon fa-file-text-o"></span></a></li>
+					<!--	<li><a href="generic.php"><span class="icon fa-file-text-o"></span></a></li>-->
 					</ul>
 				</nav>
 
@@ -28,7 +28,7 @@
 
 					<!-- Header -->
 						<header id="header">
-							<div>Snapshot <span>by TEMPLATED</span></div>
+							<div>FOTOS </div>
 						</header>
 
 					<!-- Gallery -->
@@ -39,12 +39,12 @@
 
 									<!-- Filters -->
 										<header>
-											<h1>Gallery</h1>
+											<h1>Galeria</h1>
 											<ul class="tabs">
-												<li><a href="#" data-tag="all" class="button active">All</a></li>
-												<li><a href="#" data-tag="people" class="button">People</a></li>
-												<li><a href="#" data-tag="place" class="button">Places</a></li>
-												<li><a href="#" data-tag="thing" class="button">Things</a></li>
+												<li><a href="#" data-tag="all" class="button active">Todo</a></li>
+												<li><a href="#" data-tag="people" class="button">Nosotros</a></li>
+												<li><a href="#" data-tag="place" class="button">Lugares</a></li>
+											
 											</ul>
 										</header>
 
